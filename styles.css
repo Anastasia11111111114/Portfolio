@@ -41,7 +41,7 @@ a {
 }
 
 nav {
-    background-color: #d2cb42;;
+    background-color: #fff42b;
     display: flex;
     justify-content: space-between;
     padding: 0 3.125rem;
@@ -51,7 +51,7 @@ nav {
     top: 0;
     width: 100%;
     z-index: 1000;
-    background-color: #fff310;;
+    background-color: #fff757;
     backdrop-filter: blur(5px);
 }
 
@@ -360,7 +360,7 @@ section h2::after {
 
 #skills-section i:hover {
     transform: scale(1.2);
-    color: #ffdb10;;
+    color: #fff310;;
     ;
 }
 
